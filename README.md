@@ -38,8 +38,7 @@ Parameters may also be combined. For example, ps may be executed as: ps –aef o
 
 Requirement 9: Mav shell shall be implemented using fork(), wait() and one of the 
 exec family of functions.
-
-Your Mav shell shall not use system(). Use of system() will result in a grade of 0.  
+  
 Requirement 10: Your shell shall support the cd command to change directories. Your 
 shell must handle cd ..
 
